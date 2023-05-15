@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.joseluisgs.dam.DamZum.es.joseluisgs.dam.DamZum","l":"App"},{"p":"es.joseluisgs.dam.DamZum.test.java.es.dam.maven","l":"AppTest"},{"p":"es.joseluisgs.dam.DamZum.es.joseluisgs.dam.DamZum","l":"BusinessLogic"}];updateSearchResults();
